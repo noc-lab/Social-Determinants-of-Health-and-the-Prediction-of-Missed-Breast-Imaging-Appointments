@@ -1,6 +1,5 @@
-# Social-Determinants-of-Health-and-the-Prediction-of-Missed-Breast-Imaging-Appointments
+# Social Determinants of Health and the Prediction of Missed Breast Imaging Appointments
 
-# SDH and the prediction of MIA
 Python implementation of predictive models introduced in the paper "Social determinants of health and the prediction of missed breast imaging appointments" by Shahabeddin Sotudian et. al.
 Predictive models utilizing social determinants of health (SDH), demographic data, and local weather data were trained to predict missed imaging appointments (MIA) among breast imaging patients at the Boston Medical Center (BMC). Patients were characterized by many different variables, including social needs, demographics, imaging utilization, appointment features, and weather conditions on the date of the appointment.
  
