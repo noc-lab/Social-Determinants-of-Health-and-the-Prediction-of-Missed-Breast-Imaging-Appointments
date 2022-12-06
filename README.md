@@ -10,11 +10,14 @@ Predictive models utilizing social determinants of health (SDH), demographic dat
 If you use the code, please cite this paper:
 
 ```text
-@article{sotudian2021machine,
+@article{sotudian2022social,
   title={Social determinants of health and the prediction of missed breast imaging appointments},
-  author={Shahabeddin Sotudian, Aaron Afran, Christina A. LeBedis, Anna F. Rives, Ioannis Ch. Paschalidis & Michael D. C. Fishman },
+  author={Sotudian, Shahabeddin and Afran, Aaron and LeBedis, Christina A and Rives, Anna F and Paschalidis, Ioannis Ch and Fishman, Michael DC},
   journal={BMC Health Services Research},
+  volume={22},
+  number={1},
+  pages={1--11},
   year={2022},
-  publisher={Springer Nature}
+  publisher={BioMed Central}
 }
 ```
